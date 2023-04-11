@@ -1,0 +1,13 @@
+android-base,https://android.googlesource.com/platform/frameworks/base/
+android-settings,https://android.googlesource.com/platform/packages/apps/Settings/
+beam,https://github.com/apache/beam
+deltaspike,https://github.com/apache/deltaspike
+dubbo,https://github.com/apache/dubbo
+flume,https://github.com/apache/flume
+gobblin,https://github.com/apache/gobblin
+hbase,https://github.com/apache/hbase
+hudi,https://github.com/apache/hudi
+kafka,https://github.com/apache/kafka
+knox,https://github.com/apache/knox
+nifi,https://github.com/apache/nifi
+oozie,https://github.com/apache/oozie

@@ -1,0 +1,13 @@
+android-base,refs/tags/android-13.0.0_r37,d69be736a70928515465ac5ba4d0db74d07aa278,2023-02-02
+android-settings,refs/tags/android-13.0.0_r37,b420deb9b770dffccffde9852a8703d447ebf051,2023-01-28
+beam,refs/tags/v2.46.0,0938c0ffce64565b6f186f081e00bd6ad1d128ec,2023-02-28
+deltaspike,refs/tags/deltaspike-1.9.6,db61aff4bed3d54b92c5f7c44450ed9446d833ce,2022-04-08
+dubbo,refs/tags/dubbo-3.1.9,318614005dfc65c17d7ecc376687af59a7d94dd4,2023-03-25
+flume,refs/remotes/origin/flume-1.11,1a15927e594fd0d05a59d804b90a9c31ec93f5e1,2022-10-16
+gobblin,refs/remotes/origin/0.16.0,b400089035fe7ada1a523f9b7e5321e11d46d651,2021-08-11
+hbase,refs/tags/2.5.4RC0,2e426ab69d126e683577b6e94f890800c5122910,2023-04-06
+hudi,refs/tags/release-0.13.0,a3f0615c857bed2d6783b700b2505938ee8a1bf2,2023-02-17
+kafka,refs/tags/3.4.0,2e1947d240607d53f071f61c875cfffc3fec47fe,2023-01-31
+knox,refs/remotes/origin/v2.0.0,06f19c3ae71abc41547995d7ec521cffa6f62611,2023-02-09
+nifi,refs/tags/rel/nifi-1.21.0,892f822107da84ca0dcfefdb5c91c5bc11dc3dc1,2023-04-03
+oozie,refs/tags/release-5.2.1,8f0e5ee096a437e9cf2c9716c52f2464a7f172d4,2021-02-09
